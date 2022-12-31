@@ -1,6 +1,6 @@
-# Curso-WEB -- Previa Upload Arquivo
+# Curso-WEB -- Reconhecer texto de imagem em javascript
 
-Projeto de desenvolvimento Previa Upload Arquivo
+Projeto de desenvolvimento Reconhecer texto de imagem em javascript
 
 Atividade curso Web
 
